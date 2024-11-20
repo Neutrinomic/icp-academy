@@ -1,20 +1,30 @@
+/* switch.module.css */
+
 .switch {
-  all: unset;
+  /* Position the switch button */
   position: absolute;
   right: 20px;
   top: 70px;
-  display: inline-block;
+
+  /* Set the switch as a centered circle with custom color */
+  display: flex;
   color: currentColor;
   border-radius: 50%;
   border: 1px dashed currentColor;
   cursor: pointer;
+
+  /* Define size and shape */
   --size: 24px;
   height: var(--size);
   width: var(--size);
+
+  /* Smooth transition for style changes */
   transition: all 0.3s ease-in-out 0s !important;
 }
 
+/* Display "A" in the switch button for system mode */
 [data-mode="system"] .switch::after {
+  /* Center content inside the switch */
   position: absolute;
   height: 100%;
   width: 100%;
@@ -28,20 +38,22 @@
   content: "A";
 }
 
+/* Light mode styling with yellow background and orangered border */
 [data-mode="light"] .switch {
   box-shadow: 0 0 50px 10px yellow;
   background-color: yellow;
   border: 1px solid orangered;
 }
 
+/* Dark mode styling with white inset shadow and transparent background */
 [data-mode="dark"] .switch {
-  box-shadow: calc(var(--size) / 4) calc(var(--size) / -4) calc(var(--size) / 8)
-    inset #fff;
+  box-shadow: calc(var(--size) / 4) calc(var(--size) / -4) calc(var(--size) / 8) inset #fff;
   border: none;
   background: transparent;
   animation: n linear 0.5s;
 }
 
+/* Keyframe animation for rotation */
 @keyframes n {
   40% {
     transform: rotate(-15deg);
