@@ -64,7 +64,7 @@ Chain Key Cryptography addresses these challenges by providing a robust framewor
 
 Chain Key Cryptography is at the forefront of ongoing developments within the Internet Computer. The latest advancements include:
 
-- **Chain Fusion**: A major development under Chain Key Cryptography is the Chain Fusion technology, which enables seamless interoperability between the Internet Computer and other major blockchains like Bitcoin, Ethereum, and Solana. This technology allows decentralized applications (dApps) to operate across multiple chains with a unified user experience. The [roadmap highlights milestones](https://internetcomputer.org/roadmap) such as Tritium for Ethereum, Deuterium for Bitcoin, and Helium for Solana integration. These integrations are crucial for expanding the Internet Computer's capabilities and fostering a multi-chain ecosystem.
+- **Chain Fusion Multi Chain Integration**: A major development under Chain Key Cryptography is the Chain Fusion technology, which enables seamless interoperability between the Internet Computer and other major blockchains like Bitcoin, Ethereum, and Solana. This technology allows decentralized applications (dApps) to operate across multiple chains with a unified user experience. The [roadmap highlights milestones](https://internetcomputer.org/roadmap) such as Tritium for Ethereum, Deuterium for Bitcoin, and Helium for Solana integration. These integrations are crucial for expanding the Internet Computer's capabilities and fostering a multi-chain ecosystem.
 
 - **Enhanced Scalability**: The protocol now supports the seamless addition of new nodes and the formation of new subnets, allowing the network to scale infinitely. This scalability is crucial for the Internet Computer, as it aims to decentralize the entire internet and support a vast array of decentralized applications.
 - **Improved Security**: Innovations in threshold signatures and key management ensure that the network remains secure even in the face of potential attacks. The system's ability to generate and maintain secure key materials even under adverse conditions is a testament to its robustness.
@@ -89,6 +89,20 @@ Chain Key Cryptography offers several significant advantages:
 Chain Key Cryptography is more than just a cryptographic protocol—it is the backbone of the Internet Computer’s secure, scalable, and efficient operation. By addressing the key challenges of modern blockchain networks, it ensures that the Internet Computer can grow and adapt to meet future demands by scaling without bounds.
 
 As blockchain technology continues to evolve, Chain Key Cryptography will play a pivotal role in securing and scaling decentralized systems, paving the way for a truly decentralized internet with Internet Computer.
+
+### More About Chain Key Cryptography by Dominic Williams
+
+"Chain key will make it incredibly easy to create multi-chain systems and services, and fully decentralize existing web3 services built around traditional blockchains by replacing cloud infrastructure with smart contracts on the Internet Computer.
+
+It’s important to understand where “chain key” technology comes from, because it lies at the heart of the Internet Computer.
+
+The original purpose was to allow its internal subnet blockchains to maintain public keys they could sign messages against, allowing them to interact trustlessly. (The Internet Computer’s “subnets” are transparent organizations within its global network, which seamlessly scale its capacity, which are very different to the standalone private chains often given names like “subnets” and “parachains” on other networks.)
+
+Although subnets can sign messages that can be validated against their public key, the groupings of node machines that form them do not maintain private keys that can be stolen — **the subnets themselves acts as the private key, hence the terminology chain key**."
+
+Source: [Dominic Williams Blog](https://medium.com/dfinity/10-reasons-the-internet-computer-will-win-7067bc32763a)
+
+[ Dominic Williams is the Founder of DFINITY, a non profit crypto research organization that created the Internet Computer Protocol blockchain]
 
 ---
 

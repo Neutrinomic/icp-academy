@@ -7,7 +7,7 @@ difficulty: Beginner
 tags: ["Web3", "Identity", "Decentralization", "ICP"]
 ---
 
-# Internet Identity
+## Internet Identity
 
 Internet Identity is a decentralized authentication service for the Internet Computer. It is an authentication protocol that allows users to login to dapps on ICP like OpenChat, DSVCR or many other application on ICP.
 
@@ -31,7 +31,7 @@ Users need to be careful with their wallet address since the wallet address is t
 
 **Keeping all these in mind, Internet Identity was designed with care by DFINITY.**
 
-### What is Internet Identity
+## What is Internet Identity?
 
 Internet Identity is a fully on chain Identity system that allows users to create identities and sign into dapps on ICP
 
@@ -57,6 +57,20 @@ Only the user has access to PassKeys, which is safely stored in their device’s
 
 You can think of your devices such as Phone or Laptop as your passkeys. You can add more devices/passkeys to your Internet Identity for easy access and recovery.
 
+### How Internet Identity Works Behind the Scenes?
+
+When a user creates an Internet Identity, a public and private key pair are generated, then delegation is used to create a session allowing the user to interact with the blockchain via a web3 dapp without needing to authenticate every time.
+
+When you start authenticating using Internet Identity to sign into a dApp, it generates a short-term session key. This session key is then signed by the user (via the fingerprint sensor) creating a scoped delegation allowing dApp to authenticate the user and provide access to all its functions.
+
+Session Creation A new session is created for each dapp that a user authenticates to using their II. This is made possible by leveraging chain key cryptography.
+
+Delegation Instead of requiring a user to confirm each request to and from the IC, we wrap requests in a session and delegate scoped confirmation to the app for a period of time.
+
+It should start to become clear now that Internet Identity is very much inspired by, and builds upon, web authentication."
+
+Source: [Internet Identity: Easy Web3 Authentication, by DFINITY](https://medium.com/dfinity/internet-identity-the-end-of-usernames-and-passwords-ff45e4861bf7)
+
 #### Some Cool things about Internet Identity
 
 - Easy to set up and use
@@ -66,7 +80,7 @@ You can think of your devices such as Phone or Laptop as your passkeys. You can 
 - Users cannot be tracked across different dapps
 - It is a smart contract service and its code is open sourced
 
-#### Be careful with your Internet Identity.
+#### Be careful with your Internet Identity
 
 Anyone with full access to your PassKeys (devices) can use your Internet Identity however they want since the private keys of the device are stored inside its secure chips, unlocked by device password.
 
@@ -80,7 +94,7 @@ This includes creating session key pairs, handling authorization requests, and p
 
 By adopting Internet Identity, Web3 services can offer users a seamless, secure, and private means of authentication across different applications and services.
 
-#### Learn More about Internet Identity:
+#### Learn More about Internet Identity
 
 - [Internet Identity Developer Docs](https://internetcomputer.org/docs/current/developer-docs/identity/internet-identity/overview)
 - Internet Identity [Github Repository](https://github.com/dfinity/internet-identity)

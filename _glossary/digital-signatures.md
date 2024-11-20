@@ -67,7 +67,7 @@ Both BLS and tECDSA contribute to ICP's unique architecture, enabling it to scal
 - **Quantum Threat:** Traditional digital signature schemes like ECDSA may be vulnerable to quantum computing in the future, which could break the cryptographic algorithms underpinning digital signatures. Researchers are exploring **post-quantum cryptography** to mitigate this risk.
 - **Private Key Security:** The security of digital signatures hinges on the safe storage and management of private keys. If a private key is compromised, unauthorized parties can generate valid signatures and forge transactions.
 
-**Real-World Example:**
+**Examples of Digital Signatures usage:**
 
 - **Bitcoin Transactions:** Every transaction on the **Bitcoin** network is secured using **ECDSA**, ensuring that only the owner of the private key can authorize a transfer of funds. As Bitcoin continues to explore Schnorr signatures, multi-signature transactions are becoming more efficient, paving the way for enhanced privacy and scalability.
 - **ICP’s Cross-Chain Transactions with Bitcoin:** The **Internet Computer** uses **Threshold ECDSA** to sign Bitcoin transactions, allowing decentralized applications (dApps) on ICP to interact with Bitcoin without compromising security or control over private keys. This integration enhances ICP’s capabilities in the decentralized finance (DeFi) space.
@@ -83,3 +83,4 @@ With the rise of **quantum computing**, the field of digital signatures will con
 - Investigate how **BLS signatures** and **Threshold ECDSA** improve security and scalability in decentralized networks like ICP.
 - Explore the implementation of **Schnorr signatures** in Bitcoin and their potential impact on privacy and multi-signature transactions.
 - Learn about **post-quantum digital signatures** and how they aim to protect against future cryptographic threats posed by quantum computing.
+- Learn about **PGP** and **signing messages** with your keys.
