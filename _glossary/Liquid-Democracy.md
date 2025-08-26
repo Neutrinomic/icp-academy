@@ -11,7 +11,7 @@ tags: ["Web3", "Governance", "ICP", "NNS", "SNS"]
 
 **Liquid Democracy** is a governance model that combines direct participation with flexible delegation. On the Internet Computer (ICP), it is implemented through the **Network Nervous System (NNS)**, the blockchain’s on-chain governance system. With this model, ICP holders can vote directly on proposals or delegate their voting power to trusted representatives called neurons. The goal is to make governance adaptable, transparent, and inclusive for everyone in the community.
 
-### Historical Context
+
 
 The concept of Liquid Democracy arose in the late 20th century as a way to overcome the limitations of rigid representative systems. Traditional democracies often forced a choice between direct voting or representation, with little flexibility. With the rise of blockchain technology, secure and transparent vote delegation became possible, giving Liquid Democracy new relevance.  
 
@@ -45,17 +45,13 @@ When the Internet Computer launched in 2021, the DFINITY Foundation integrated L
 - **Service Nervous System (SNS) DAOs**: Application-specific DAOs on ICP, such as OpenChat and DSCVR, adopt Liquid Democracy for token-based governance.  
 - **Protocol Evolution**: Changes to consensus, economics, or technical parameters are made through NNS proposals decided by community voting.  
 
-### Real-World Example
-
 The NNS frontend at [https://nns.ic0.app](https://nns.ic0.app) is the main portal for participating in Liquid Democracy on ICP. Users can vote directly on proposals or delegate their power to neurons they trust. Since 2021, this system has managed the Internet Computer’s growth, from replica upgrades to governance refinements, with decisions transparently recorded on-chain.
-
-### ICP Significance
 
 Liquid Democracy reflects ICP’s vision of community sovereignty. It moves beyond the rigidity of traditional models by offering fluidity, accountability, and inclusivity. On ICP, governance is not locked into a static structure. Power can flow between individuals and delegates as circumstances change, while cryptographic guarantees preserve security.  
 
 This aligns with the broader Web3 movement, where the internet evolves from read to write to own. In ICP’s case, ownership is not only about tokens but also about active participation in shaping the network’s future. Liquid Democracy ensures that ICP is governed by its users, not by a central authority.
 
-### Conclusion and Future Outlook
+### Conclusion
 
 Liquid Democracy on ICP blends direct democracy with delegation in a way that is both practical and scalable. It enables active users to participate directly while allowing others to rely on trusted delegates, keeping governance flexible and inclusive. Challenges remain, especially around delegate concentration and usability, but the model demonstrates how decentralized systems can overcome traditional governance limits.  
 
