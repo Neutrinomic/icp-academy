@@ -11,8 +11,6 @@ tags: ["Web3", "Governance", "ICP", "NNS", "SNS"]
 
 **Liquid Democracy** is a governance model that combines direct participation with flexible delegation. On the Internet Computer (ICP), it is implemented through the **Network Nervous System (NNS)**, the blockchain’s on-chain governance system. With this model, ICP holders can vote directly on proposals or delegate their voting power to trusted representatives called neurons. The goal is to make governance adaptable, transparent, and inclusive for everyone in the community.
 
-
-
 The concept of Liquid Democracy arose in the late 20th century as a way to overcome the limitations of rigid representative systems. Traditional democracies often forced a choice between direct voting or representation, with little flexibility. With the rise of blockchain technology, secure and transparent vote delegation became possible, giving Liquid Democracy new relevance.  
 
 When the Internet Computer launched in 2021, the DFINITY Foundation integrated Liquid Democracy into the NNS. This made ICP one of the first major blockchains to adopt a governance system that balances direct user participation with scalable delegation. Instead of governance being managed by centralized entities, control shifted into the hands of token holders.
@@ -22,7 +20,7 @@ When the Internet Computer launched in 2021, the DFINITY Foundation integrated L
 1. **Direct Voting**: Users stake ICP in neurons and vote directly on proposals such as software upgrades, protocol economics, or governance changes.  
 2. **Delegated Voting**: Users can assign their voting power to other neurons that they trust to make informed decisions. Delegations are recorded on-chain for full transparency.  
 3. **Dynamic Delegation**: Delegation is not permanent. At any point, a user can reclaim their vote or reassign it to another neuron, keeping governance flexible.  
-4. **Transparency and Security**: All voting activity is visible on-chain. ICP’s chain-key cryptography ensures authenticity and prevents tampering.  
+4. **Transparency and Security**: All voting activity is visible on-chain. ICP's chain-key cryptography ensures authenticity and prevents tampering.  
 5. **Rewards**: Neurons that vote, either directly or through delegated power, earn governance rewards, encouraging active participation.  
 
 ### Advantages

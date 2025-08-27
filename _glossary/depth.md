@@ -37,7 +37,7 @@ When a DEX has “depth,” it means it can absorb large buy or sell orders with
 
 In the Internet Computer ecosystem, DEXs utilize SNS (Service Nervous System) governance to manage and incentivize liquidity, ensuring consistent depth for stable trading environments.
 
-Traders can use [ICPCoins.com](http://ICPCoins.com) to check the Depth of token pairs on ICP DEXs. This helps traders make informed decisions. DeFi Vectors also allow traders to automate their trading, allowing for more control over trades for precise swaps.
+Traders can use [ICPCoins.com](https://ICPCoins.com) or [Neutrinite.io](https://neutrinite.io) to check the Depth of token pairs on ICP DeFi Ecosystem. This helps traders make informed decisions. DeFi Vectors also allow traders to automate their trading, allowing for more control over trades for precise swaps.
 
 Depth is foundational for DEX stability and efficiency. As the DeFi space grows, innovations like cross-chain liquidity and advanced market-making algorithms will likely improve depth across platforms, allowing DEXs to serve larger, more diverse user bases.
 
