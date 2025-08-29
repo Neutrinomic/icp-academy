@@ -1,6 +1,6 @@
 ---
 slug: "AMM"
-title: "AMM"
+title: "Automated Market Makers (AMMs)"
 description: "Automated Market Makers (AMMs) are decentralized exchange protocols that facilitate trading by using algorithms and liquidity pools, rather than relying on traditional order books"
 content: "Automated Market Makers (AMMs) are decentralized exchange protocols that facilitate trading by using algorithms and liquidity pools, rather than relying on traditional order books."
 difficulty: Beginner

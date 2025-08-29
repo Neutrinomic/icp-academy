@@ -1,5 +1,5 @@
 ---
-slug: "Algorithmic-Stablecoins"
+slug: "algorithmic-stablecoins"
 title: "Algorithmic Stablecoins"
 description: "Algorithmic stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to fiat currencies like USD, without relying on collateralized reserves."
 content: "Algorithmic stablecoins are cryptocurrencies designed to maintain a stable value, typically pegged to fiat currencies like USD, without relying on collateralized reserves."
