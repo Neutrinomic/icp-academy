@@ -1,14 +1,14 @@
 ---
 slug: "icrc-55-defi-vectors"
 title: "ICRC-55 DeFi Vectors: Innovating Smart Contract DeFi on ICP"
-excerpt: "This guide provides a detailed, step-by-step walkthrough for beginners and intermediate users, focusing on the unique features ofICRC-55 DeFi Vectors: Innovating Smart Contract DeFi on ICP."
-coverImage: "/assets/articles/vec.jpg"
+excerpt: "This guide provides a detailed, step-by-step walkthrough for beginners and intermediate users, focusing on the unique features of ICRC-55 DeFi Vectors: Innovating Smart Contract DeFi on ICP."
+coverImage: "/assets/articles/vec2.png"
 date: "2024-10-05T05:35:07.322Z"
 author:
   name: NTN Team
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/articles/vec.jpeg"
+  url: "/assets/articles/vec2.png"
 difficulty: "Intermediate"
 tags: ["Web3", "Vectors", "ICP", "DeFi"]
 readTime: "15 min"
@@ -38,13 +38,15 @@ ICP’s architecture amplifies this system’s effectiveness. Asynchronous canis
 
 ### **2. Understanding DeFi Vectors**
 
-At the heart of **ICRC-55** are **DeFi Vectors**, the building blocks for token flow operations.
+At the heart of **ICRC-55 Protocol Standard** are **DeFi Vectors**, the building blocks for token flow operations.
 
 Each **Vector** represents a single token movement, defined by:
 
 - **Source Address**: The starting point holding the tokens where tokens are deposited.
-- **Destination Address**: The endpoint receiving the tokens where tokens arrive.
-- **Configured Parameters**: Conditions such as thresholds, swap amount, time schedules, or oracle-based price triggers.
+- **Destination Address**: The endpoint receiving the tokens where tokens arrive after transaction.
+- **Configured Parameters**: Conditions such as thresholds, token amount, time schedules, or oracle-based price triggers.
+
+Each Vectors are smart contract DeFi instrutments inside a Pylon Canister.
 
 ### **Key Features**
 
@@ -81,6 +83,9 @@ Modular logic defining specific DeFi functionalities:
 - **Exchange**: Token swaps (e.g., ICP ↔ ckBTC).
 - **Throttle**: Rate-limiting outflows.
 - **Lending**: Managing collateral and borrow/repay flows.
+- **Neuron** : Bringing DeFi to ICP Neurons and SNS Neurons.
+- **Liquidity** : Automating functions for Liquidity Providers.
+- **Vaults** : Vault Vectors for DeFi or APY
 
 Self-contained modules enable quick upgrades or additions without disrupting the system.
 
@@ -97,7 +102,7 @@ By isolating functionality into Vectors, Nodes, Modules, and Pylons, **ICRC-55**
 
 ### **4. Middleware and Virtualization**
 
-### **Middleware Integration**:
+### **Middleware Integration**
 
 Middleware in **ICRC-55** simplifies the interaction between **Pylon Canisters** and the broader blockchain ecosystem. It serves as the connective layer that abstracts ledger-specific complexities, ensuring seamless and efficient operations:
 
@@ -107,7 +112,7 @@ Middleware in **ICRC-55** simplifies the interaction between **Pylon Canisters**
 
 Middleware ensures that Pylons can reliably execute token flows while abstracting away the intricate details of ledger and cross-chain operations.
 
-### **Virtualization**:
+### **Virtualization**
 
 Virtualization enhances the efficiency of **ICRC-55** by enabling off-chain management of internal token movements within a **Pylon Canister**. This feature minimizes interaction with external ledgers, reducing costs and enhancing performance:
 
@@ -137,7 +142,7 @@ This integration expands liquidity and connectivity, positioning the Internet Co
 
 ---
 
-### **6. Governance**:
+### **6. Governance**
 
 ICRC-55 ensures adaptability through a flexible governance structure that balances decentralization and operational efficiency:
 
@@ -147,7 +152,7 @@ ICRC-55 ensures adaptability through a flexible governance structure that balanc
 
 This governance approach enables dynamic upgrades, fostering innovation while maintaining decentralized oversight.
 
-### **Security**:
+### **Security**
 
 ICRC-55 integrates robust security features that safeguard token flows and workflows:
 
