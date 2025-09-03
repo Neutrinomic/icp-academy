@@ -35,7 +35,7 @@ At the heart of DeFi Vectors is the **Pylon Canister**, the operational hub wher
 - Facilitates automation by handling middleware and virtualization.
 - Ensures decentralized control through DAO or principal-based governance.
 
-Each component—Vectors, Nodes, and Modules—works harmoniously within the Pylon Canister, enabling seamless token flows across the Internet Computer and beyond.
+Each component; Vectors, Nodes, and Modules; works harmoniously within the Pylon Canister, enabling seamless token flows across the Internet Computer and beyond.
 
 ---
 
@@ -167,4 +167,3 @@ These features are technically part of **ICRC-55**, but they are what give DeFi 
 By leveraging the innovative design of the **ICRC-55 protocol**, DeFi Vectors enable automation, reduce costs, and enhance cross-chain compatibility.
 
 Whether simplifying token swaps or enabling DAO-driven treasury management, DeFi Vectors set the stage for a new era of scalable, secure, and seamless financial workflows on the Internet Computer.
-

@@ -1,14 +1,14 @@
 ---
 slug: "icrc-55-defi-vectors"
 title: "ICRC-55 DeFi Vectors: Innovating Smart Contract DeFi on ICP"
-excerpt: "This guide provides a detailed, step-by-step walkthrough for beginners and intermediate users, focusing on the unique features of ICRC-55 DeFi Vectors: Innovating Smart Contract DeFi on ICP."
-coverImage: "/assets/articles/vec2.png"
+excerpt: "This guide provides a detailed, step-by-step walkthrough for beginners and intermediate users, focusing on the unique features ofICRC-55 DeFi Vectors: Innovating Smart Contract DeFi on ICP."
+coverImage: "/assets/articles/vec.jpg"
 date: "2024-10-05T05:35:07.322Z"
 author:
   name: NTN Team
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/articles/vec2.png"
+  url: "/assets/articles/vec.jpeg"
 difficulty: "Intermediate"
 tags: ["Web3", "Vectors", "ICP", "DeFi"]
 readTime: "15 min"

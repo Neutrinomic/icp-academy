@@ -112,6 +112,8 @@ DeFi Vectors unlock the full potential of ICP’s asynchronous architecture by a
     - Enable recurring payments using virtual accounts and nano-fees.
     - Example: Deduct monthly analytics service fees automatically from users’ virtual accounts.
 
-DeFi Vectors revolutionize ICP’s asynchronous architecture, turning its challenges into opportunities for innovation. By automating token flows with programmable logic, cross-chain compatibility, and virtualization, they create a scalable, efficient, and secure platform for decentralized finance.
+DeFi Vectors revolutionize ICP’s asynchronous architecture, turning its challenges into opportunities for innovation.
+
+By automating token flows with programmable logic, cross-chain compatibility, and virtualization, they create a scalable, efficient, and secure platform for decentralized finance.
 
 The **ICRC-55 framework** ensures that developers, DAOs, and users can harness these capabilities to build the future of interconnected and scalable DeFi systems. This modular approach positions DeFi Vectors as a catalyst for transforming how programmable finance operates in asynchronous environments.
