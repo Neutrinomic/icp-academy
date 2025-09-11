@@ -1,5 +1,5 @@
 ---
-slug: "fdv"
+slug: "FDV"
 title: "Fully Diluted Valuation (FDV)"
 description: "Fully Diluted Valuation (FDV) is a measure of the total value of a cryptocurrency assuming all possible tokens are in circulation at the current market price."
 content: "Fully Diluted Valuation (FDV) represents the total value of a cryptocurrency or token if all possible tokens, including those yet to be issued or unlocked, were in circulation at the current market price."

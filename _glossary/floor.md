@@ -7,7 +7,7 @@ difficulty: Beginner
 tags: ["Web3", "DeFi", "Blockchain"]
 ---
 
-In cryptocurrency and NFT (Non-Fungible Token) markets, the **floor** represents the **lowest price** at which an asset—be it a token or an NFT—is available for purchase.
+In cryptocurrency and NFT (Non-Fungible Token) markets, the **floor** represents the **lowest price** at which an asset, be it a token or an NFT is available for purchase.
 
 For NFTs, it specifically refers to the lowest price someone is willing to sell an item from a particular collection. In cryptocurrency markets, it can also refer to the minimum value an asset is expected to drop to, based on technical analysis or community sentiment.
 

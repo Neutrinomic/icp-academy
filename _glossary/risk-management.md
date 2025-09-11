@@ -1,6 +1,6 @@
 ---
-slug: "thing"
-title: "Thing"
+slug: "risk-management"
+title: "Risk Management"
 description: "Risk management in decentralized finance (DeFi) and traditional finance refers to the process of identifying, assessing, and mitigating risks to minimize potential financial losses"
 content: "Risk management in decentralized finance (DeFi) and traditional finance refers to the process of identifying, assessing, and mitigating risks to minimize potential financial losses."
 difficulty: Beginner

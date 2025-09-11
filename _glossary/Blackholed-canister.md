@@ -1,6 +1,6 @@
 ---
-slug: "Blackhole-canister"
-title: "Blackhole Canister"
+slug: "Blackholed-canister"
+title: "Blackholed Canister"
 description: "A blackhole canister on the Internet Computer (ICP) is a special canister that becomes immutable once its sole controller is set to the blackhole principal ID (e3mmv-5qaaa-aaaaa-aaadm-cai) or when all controllers are removed."
 content: "A blackhole canister on the Internet Computer (ICP) is a special canister that becomes immutable once its sole controller is set to the blackhole principal ID (e3mmv-5qaaa-aaaaa-aaadm-cai) or when all controllers are removed."
 difficulty: Beginner

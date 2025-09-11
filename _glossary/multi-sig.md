@@ -1,6 +1,6 @@
 ---
 slug: "multi-sig"
-title: "Multi-Sig"
+title: "Multi Sig"
 description: "Multi-signature (multi-sig) is a security feature that requires multiple private keys (signatures) to authorize a single transaction."
 content: "Multi-signature (multi-sig) is a security feature that requires multiple private keys (signatures) to authorize a single transaction."
 difficulty: Beginner

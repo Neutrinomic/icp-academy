@@ -1,5 +1,5 @@
 ---
-slug: "treshold-relay"
+slug: "threshold-relay"
 title: "Threshold Relay"
 description: "Threshold Relay is a consensus protocol used by the Internet Computer (ICP) to achieve secure, scalable, and efficient agreement among nodes."
 content: "Threshold Relay is a consensus protocol used by the Internet Computer (ICP) to achieve secure, scalable, and efficient agreement among nodes."

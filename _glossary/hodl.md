@@ -22,4 +22,4 @@ HODLing requires strong emotional discipline, as markets can be volatile, and pr
 
 In 2017, many Bitcoin investors who HODLed through the bear market saw their assets increase dramatically during the subsequent bull run. Long-term holders were able to benefit from significant price appreciation.
 
-HODL has become more than just a strategy—it’s a philosophy within the crypto community. It represents faith in the long-term potential of cryptocurrency and the ability to resist the pressures of short-term volatility.
+HODL has become more than just a strategy; it’s a philosophy within the crypto community. It represents faith in the long-term potential of cryptocurrency and the ability to resist the pressures of short-term volatility.

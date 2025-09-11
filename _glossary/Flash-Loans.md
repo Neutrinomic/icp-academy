@@ -18,7 +18,7 @@ Unlike traditional finance, where loans require collateral to cover risk, flash 
 **How Flash Loans Work:**
 
 1. **Borrow Funds in One Transaction:** The user initiates a transaction that borrows a significant amount of assets from a DeFi protocol like Aave. There’s no need for collateral since the transaction must repay the loan before the block is confirmed.
-2. **Execute Arbitrage or Strategy:** During the transaction, the user can execute a series of operations like arbitrage, refinancing, or liquidity provisioning. The entire process—borrowing, executing, and repaying—happens atomically in one block.
+2. **Execute Arbitrage or Strategy:** During the transaction, the user can execute a series of operations like arbitrage, refinancing, or liquidity provisioning. The entire process of borrowing, executing, and repaying happens atomically in one block.
 3. **Repay Loan:** At the end of the transaction, the user repays the loan, plus any fees, within the same block. If the repayment fails, the entire transaction is rolled back, meaning no assets ever leave the protocol.
 
 **Advantages of Flash Loans:**
@@ -35,7 +35,7 @@ Unlike traditional finance, where loans require collateral to cover risk, flash 
 
 **Practical Applications:**
 
-1. **Arbitrage Trading:** Traders use flash loans to arbitrage between different decentralized exchanges (DEXs). For example, a trader can borrow a large amount of ETH, buy a token on one exchange, sell it for a higher price on another, and repay the loan—all in one transaction.
+1. **Arbitrage Trading:** Traders use flash loans to arbitrage between different decentralized exchanges (DEXs). For example, a trader can borrow a large amount of ETH, buy a token on one exchange, sell it for a higher price on another, and repay the loan, all in one transaction.
 2. **Refinancing Debt:** Users can use flash loans to refinance existing DeFi loans. By taking out a flash loan, they can pay off an existing loan on one platform and then immediately take out a new loan with better terms elsewhere, all within the same transaction.
 3. **Liquidation Prevention:** Flash loans can be used to temporarily boost a collateral position in DeFi lending protocols to prevent liquidation, allowing users to avoid penalties or the forced sale of their assets.
 

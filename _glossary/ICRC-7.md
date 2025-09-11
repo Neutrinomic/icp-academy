@@ -1,6 +1,6 @@
 ---
 slug: "ICRC-7"
-title: "ICRC-7"
+title: "ICRC 7"
 description: "ICRC-7 (Internet Computer Request for Comments 7) is a minimal yet powerful standard for implementing Non-Fungible Tokens (NFTs) on the Internet Computer (IC)."
 content: "ICRC-7 (Internet Computer Request for Comments 7) is a minimal yet powerful standard for implementing Non-Fungible Tokens (NFTs) on the Internet Computer (IC)."
 difficulty: Beginner

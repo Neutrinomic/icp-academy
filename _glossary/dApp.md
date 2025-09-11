@@ -1,5 +1,5 @@
 ---
-slug: "dapp"
+slug: "dApp"
 title: "dApp (Decentralized Application)"
 description: "A decentralized application (dApp) is software that runs on a blockchain instead of centralized servers, using smart contracts for automation and trustless interaction."
 content: "A dApp is an application built on a decentralized network such as a blockchain. Unlike traditional apps, dApps use smart contracts to execute logic, removing intermediaries and enabling security, transparency, and censorship resistance."

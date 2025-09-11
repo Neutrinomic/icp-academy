@@ -11,7 +11,7 @@ tags: ["Web3", "DAO", "Blockchain", "ICP"]
 
 **Governance tokens** are special types of tokens in decentralized finance (DeFi) and blockchain ecosystems that grant holders voting power to influence the future of a protocol, application, or network by voting on Governance Proposals.
 
-They function as the lifeblood of decentralized governance, allowing the community—not a central authority—to make decisions on upgrades, protocol changes, or treasury management. By holding governance tokens, users gain a say in the project’s direction, often through a voting process that determines everything from new features to economic policies.
+They function as the lifeblood of decentralized governance, allowing the community - not a central authority, to make decisions on upgrades, protocol changes, or treasury management. By holding governance tokens, users gain a say in the project’s direction, often through a voting process that determines everything from new features to economic policies.
 
 Governance tokens emerged as a critical feature of the decentralized revolution. Early blockchain systems like Bitcoin and Ethereum were governed by developers or miners, but as DeFi protocols grew, the need for **community-driven** governance became more evident. With the rise of projects like **MakerDAO** and **Compound**, governance tokens became a standard way for users to have a direct influence on decision-making. The idea was simple: give the power back to the community. Holders of governance tokens in these protocols could vote on proposals ranging from interest rate adjustments to protocol upgrades, fostering a decentralized, self-sustaining ecosystem.
 
