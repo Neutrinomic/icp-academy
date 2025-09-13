@@ -1,5 +1,5 @@
 ---
-slug: "farmming-pools"
+slug: "farming-pools"
 title: "Farming Pools"
 description: "Farming pools, also known as liquidity mining pools, are decentralized finance (DeFi) mechanisms that allow users to provide liquidity to a protocol in exchange for rewards, typically in the form of tokens."
 content: "Farming pools, also known as liquidity mining pools, are decentralized finance (DeFi) mechanisms that allow users to provide liquidity to a protocol in exchange for rewards, typically in the form of tokens. By locking their crypto assets into a liquidity pool, users earn yield over time, either through transaction fees, governance tokens, or a combination of both."
