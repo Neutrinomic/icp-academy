@@ -43,7 +43,7 @@ AMMs solved this by allowing liquidity providers to deposit token pairs into poo
 - **Low-Cost, High-Speed Transactions:** **ICPSwap** and **Sonic** leverage ICP’s scalable infrastructure to offer low-fee, near-instant token swaps, contrasting with Ethereum’s often high gas fees and network congestion.
 - **Full On-Chain Hosting:** ICP’s AMMs are fully decentralized, hosting both the backend and frontend on-chain, offering a more resilient system without relying on centralized cloud services.
 
-On **ICP**, platforms like **ICPSwap** and **Sonic** enable users to trade ICP tokens efficiently. By utilizing ICP’s speed and cost-effective infrastructure, these platforms allow traders to swap tokens like **ICP/BTC** or **ICP/ETH** with minimal fees and fast finality.
+On **ICP**, platforms like **ICPSwap** and **KongSwap** enable users to trade ICP tokens efficiently. By utilizing ICP’s speed and cost-effective infrastructure, these platforms allow traders to swap tokens like **ICP/BTC** or **ICP/ETH** with minimal fees and fast finality.
 
 In contrast to Ethereum-based AMMs, which can suffer from high gas fees during congestion, ICP’s decentralized architecture ensures smooth, cost-effective trading experiences.
 
@@ -53,6 +53,6 @@ As ICP’s unique reverse gas model, full on-chain infrastructure, and integrati
 
 **Further Exploration:**
 
-- Explore how **Sonic** on ICP reduces user transaction costs through its reverse gas model.
+- Explore how **KongSwap** on ICP reduces user transaction costs through its reverse gas model.
 - Investigate how **cross-chain AMMs** will revolutionize liquidity across multiple blockchain networks.
 - Compare the transaction speeds and cost efficiencies of AMMs on **Ethereum** and **ICP** to see the impact of differing network architectures.

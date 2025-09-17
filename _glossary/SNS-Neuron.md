@@ -17,7 +17,7 @@ The staking process enables users to vote on governance proposals, contribute to
 ### How SNS Neurons Work
 
 1. **Creating a Neuron**: Users create a neuron by staking their SNS tokens within the SNS governance framework. This process locks the tokens for a specified duration, and the neuron remains active until the tokens are unstaked. Voting power is influenced by the number of tokens staked and the length of the staking period.
-2. **Voting Mechanism**: Neurons represent voting power within SNS governance. When a proposal is introduced—whether it's a feature update, policy change, or budget allocation—each neuron votes based on its staked amount and length, giving committed users a stronger voice in decisions. Neurons can also delegate voting power to other trusted users, enabling a flexible and community-driven approach to governance.
+2. **Voting Mechanism**: Neurons represent voting power within SNS governance. When a proposal is introduced; whether it's a feature update, policy change, or budget allocation; each neuron votes based on its staked amount and length, giving committed users a stronger voice in decisions. Neurons can also delegate voting power to other trusted users, enabling a flexible and community-driven approach to governance.
 3. **Dissolution Delay**: The neuron’s dissolve delay is the minimum time it takes to unlock staked tokens. The longer the dissolve delay, the more voting power a neuron gains. This encourages users to take long-term stakes in governance, promoting stability and thoughtful decision-making within the community.
 4. **Proposal Creation and Adoption**: Neurons enable users to both submit and vote on proposals within the SNS. When a proposal gains sufficient support, the SNS governance system executes the change autonomously, reflecting the community’s decisions directly on-chain without developer intervention.
 
@@ -27,7 +27,7 @@ The staking process enables users to vote on governance proposals, contribute to
 - **Delegated Voting**: Neurons can delegate voting to others, creating flexibility and allowing specialized members to make informed decisions on behalf of others.
 - **Autonomous Execution**: Once a proposal is approved by the neuron community, the SNS governance canister automatically executes the decision, ensuring governance remains transparent and user-led.
 
-### Practical Example
+### SNS Neurons offer a practical model for decentralized governance
 
 In **OpenChat**, a social application on ICP, SNS neurons empower the $CHAT token holders to vote on platform developments, feature implementations, and policy adjustments. Neuron holders stake their tokens and engage in proposals, helping to guide the app’s growth and operations in a truly decentralized manner.
 
@@ -35,10 +35,10 @@ On the Internet Computer, SNS neurons operate under a robust governance structur
 
 SNS Neurons offer a practical model for decentralized governance on ICP, allowing communities to manage and guide their dapps in a participatory, democratic way. By staking tokens and voting within SNS governance, users directly influence the future of the applications they care about.
 
+SNS Neurons reflect the Internet Computer's commitment to empowering decentralized, community-led application development, fostering a collaborative approach to the future of dapp governance.
+
 ### Further Exploration
 
 - What is the role of dissolve delay in neuron governance?
 - Compare neuron-based voting on SNS with other DAO governance models.
 - Explore neuron participation in real-time by joining an SNS-governed dapp like OpenChat.
-
-SNS Neurons reflect the Internet Computer's commitment to empowering decentralized, community-led application development, fostering a collaborative approach to the future of dapp governance.
