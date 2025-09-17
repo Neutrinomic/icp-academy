@@ -110,14 +110,12 @@ This makes ICP uniquely suited for hosting web-scale applications where **speed 
 
 ---
 
-### Engaging Example
 
 Imagine you’re using a DeFi dashboard on your phone to check liquidity pool balances.  
 - Without certified variables, you’re trusting that the gateway hasn’t been tampered with.  
 - With certified variables, the dashboard receives the balance plus a certificate.  
 - Your device can verify the proof in milliseconds, giving you both **speed** and **security** - a Web2-like experience with blockchain guarantees.  
 
----
 
 ### Technical Implementation (Developer View)
 
@@ -145,7 +143,6 @@ This pattern is widely used in certified asset canisters and Internet Identity.
 - **Identity Systems**: Authenticate anchors securely for Internet Identity.  
 - **Content Delivery**: Guarantee integrity of web assets hosted entirely on ICP.  
 - **Dashboards and DAOs**: Present voting and governance data without relying on centralized servers.  
-
 
 
 Certified variables are a **cornerstone of security and usability** on the Internet Computer. They close the gap between fast but unverifiable queries and slow but secure updates, allowing dApps to serve data that is both quick and cryptographically guaranteed.  

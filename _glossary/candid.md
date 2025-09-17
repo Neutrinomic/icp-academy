@@ -1,7 +1,7 @@
 ---
 slug: "candid"
 title: "Candid"
-description: "Candid is the Internet Computer’s interface description language (IDL) that defines how canisters expose their methods and data types, ensuring interoperability across programming languages and seamless communication between smart contracts and clients."
+description: "Candid is the Internet Computer’s interface description language (IDL). It defines how canisters share their methods and data types, so different smart contracts and applications can talk to each other without confusion."
 content: "Candid provides a standardized way for canisters and applications to talk to each other, bridging Motoko, Rust, and other languages into one unified system on the Internet Computer."
 difficulty: Beginner
 tags: ["ICP", "Blockchain", "Candid", "IDL", "Smart Contracts", "Interoperability"]
@@ -39,7 +39,7 @@ At its core, Candid is a **type system and serialization format** that sits betw
      service : {
        greet : (text) -> (text);
      }
-     ```  
+     ```
      This defines a canister with one method, `greet`, which takes a text string and returns a text string.
 
 2. **Type system**  
@@ -49,7 +49,7 @@ At its core, Candid is a **type system and serialization format** that sits betw
 3. **Serialization and deserialization**  
    - Calls are encoded into a binary format using Candid.  
    - The receiving canister decodes the message into its local language representation.  
-   - This is automatic for developers—no manual parsing required.
+   - This is automatic for developers.
 
 4. **Async support**  
    - ICP canisters use asynchronous messaging.  
@@ -102,7 +102,7 @@ Together, these features make Candid a universal “translation layer” for all
 
 ---
 
-### ICP in Practice
+### Impact of Candid on ICP
 
 Candid is used everywhere on ICP:  
 
@@ -137,7 +137,6 @@ This transparency makes ICP development faster and more accessible.
   - Combines strong typing, async design, and blockchain-native features.  
   - More developer-friendly than Ethereum ABI.  
   - Natively supports composability across smart contracts.  
-
 
 Candid is more than just a technical layer—it is the **lingua franca of the Internet Computer**. By giving all canisters a shared, language-neutral interface, it ensures that the ecosystem can scale without fragmentation.  
 
